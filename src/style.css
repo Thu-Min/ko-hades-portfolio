@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .slide-top-enter-active,
+.slide-leave-active {
+  transition: all 0.75s ease-out;
+}
+
+.slide-top-enter-to {
+  position: absolute;
+  top: 0;
+}
+
+.slide-top-enter-from {
+  position: absolute;
+  top: -100%;
+}
+
+.slide-top-leave-to {
+  position: absolute;
+  bottom: -100%;
+}
+
+.slide-top-leave-from {
+  position: absolute;
+  bottom: 0;
+} */
