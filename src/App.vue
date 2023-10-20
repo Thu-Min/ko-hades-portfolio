@@ -1,35 +1,12 @@
 <template>
-  <main>
-    <!-- <router-view v-slot="{ Component }">
-      <transition name="slide">
-        <component :is="Component" />
-      </transition>
-    </router-view> -->
-    <router-view>
-      <!-- <transition name="slide">
-        <component :is="Component" />
-      </transition> -->
-    </router-view>
-  </main>
-
-  <!-- <section class="bg-center bg-no-repeat h-screen w-screen bg-[../../public/Artist Background.jpg] bg-gray-700 bg-blend-multiply bg-fixed"> -->
-
+  <!-- <section class="bg-cover bg-no-repeat h-screen w-screen bg-blend-multiply bg-fixed bg-img"> -->
+    <BackgroundImageVue>
+      <!-- <NavBar></NavBar> -->
+    </BackgroundImageVue>
     <!-- Jumbotron -->
-    <!-- <div
-      class="relative overflow-hidden bg-cover bg-no-repeat p-12 text-center h-screen text-white bg-img">
+    <!-- <router-view></router-view> -->
 
 
-      <div class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
-        style="background-color: rgba(0, 0, 0, 0.8)">
-      
-        <NavBar/>
-        
-        <div class="flex h-full items-center justify-center">
-          <HomePage/>
-        </div>
-      </div>
-      <router-view></router-view>
-    </div> -->
     <!-- Jumbotron -->
 
 
@@ -41,13 +18,17 @@
 </template>
 
 <script>
-
+import BackgroundImageVue from './components/BackgroundImage.vue';
+// import NavBar from './components/NavBar.vue';
+// import HomePage from './views/HomePage.vue';
 export default {
   name: 'App',
+  components: {
+    BackgroundImageVue
+  },
 
 }
 </script>
-
 <!-- <style>
 .slide-top-enter-active,
 .slide-leave-active {

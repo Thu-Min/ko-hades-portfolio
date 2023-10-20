@@ -14,12 +14,12 @@
                 <div class="hidden w-full md:block md:w-auto" id="navbar-default">
                     <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border  md:flex-row md:space-x-8 md:mt-0 md:border-0 ">
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 font-coda text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page">Home</a>
+                            <router-link :to="{ name: 'home' }" class="nav-link block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</router-link>
                         </li>
                         
-                        <!-- <li>
-                            <router-link to="/about-me" class="block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About Me</router-link>
-                        </li> -->
+                        <li>
+                            <router-link :to="{ name: 'about-me' }" class="cursor-pointer block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About Me</router-link>
+                        </li>
                         <li>
                             <a href="#" class="block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
                         </li>
