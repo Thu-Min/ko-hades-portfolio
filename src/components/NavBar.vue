@@ -21,7 +21,7 @@
                             <router-link :to="{ name: 'about-me' }" class="cursor-pointer block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About Me</router-link>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
+                            <router-link :to="{ name: 'artwork-page1' }" class="cursor-pointer block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Artworks</router-link>
                         </li>
                         <li>
                             <a href="#" class="block py-2 pl-3 pr-4 font-coda rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Pricing</a>
