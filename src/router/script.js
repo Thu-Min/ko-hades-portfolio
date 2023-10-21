@@ -31,6 +31,11 @@ const routes = [
     path: '/artwork/page=2',
     name: 'artwork-page2',
     component: () => import('../views/ArtworkPageTwo.vue')
+  },
+  {
+    path: '/past-work',
+    name: 'past-work',
+    component: () => import('../views/PastWorkPage.vue')
   }
 ]
 
