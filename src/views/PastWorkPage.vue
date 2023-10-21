@@ -30,23 +30,23 @@
                     <div class="grid grid-cols-2 gap-10 mx-auto w-[80%]">
                         <div class="flex items-center justify-center">
                             <img src="../../public/img/icon.png" alt="" class="w-[44px] mr-5">
-                            <h1 class="text-left mr-3 text-2xl max-w-[45%] tracking-tight leading-8 text-white">Group Exhibition at Bodhisava Cafe in <b>2021</b></h1>
+                            <h1 class="text-left mr-3 text-2xl max-w-[50%] tracking-tight leading-8 text-white">Group Exhibition at Bodhisava Cafe in <b>2021</b></h1>
                         </div>
                         <div class="flex items-center justify-center">
                             <img src="../../public/img/icon.png" alt="" class="w-[44px] mr-5">
-                            <h1 class="text-left text-2xl max-w-[45%] tracking-tight leading-8 text-white">Women's Intersectional Art Exhibition at Singapore Visual Art Center in <b>2022</b></h1>
+                            <h1 class="text-left text-2xl max-w-[50%] tracking-tight leading-8 text-white">Women's Intersectional Art Exhibition at Singapore Visual Art Center in <b>2022</b></h1>
                         </div>
                         <div class="flex items-center justify-center">
                             <img src="../../public/img/icon.png" alt="" class="w-[44px] mr-5">
-                            <h1 class="text-left mr-3 text-2xl max-w-[45%] tracking-tight leading-8 text-white">Virtual Exhibition with Sharrtz Org in <b>2023</b></h1>
+                            <h1 class="text-left mr-3 text-2xl max-w-[50%] tracking-tight leading-8 text-white">Virtual Exhibition with Sharrtz Org in <b>2023</b></h1>
                         </div>
                         <div class="flex items-center justify-center">
                             <img src="../../public/img/icon.png" alt="" class="w-[44px] mr-5">
-                            <h1 class="text-left mr-3 text-2xl max-w-[45%] tracking-tight leading-8 text-white">We lived in Burma Exhibition at Ahnanda Art Space in <b>2023</b></h1>
+                            <h1 class="text-left mr-3 text-2xl max-w-[50%] tracking-tight leading-8 text-white">We lived in Burma Exhibition at Ahnanda Art Space in <b>2023</b></h1>
                         </div>
                         <div class="flex items-center justify-center">
                             <img src="../../public/img/icon.png" alt="" class="w-[44px] mr-5">
-                            <h1 class="text-left mr-3 text-2xl max-w-[45%] tracking-tight leading-8 text-white">Organized the Born this Way Pride Month Exhibition at Ahnanda ArtSpace in <b>2023</b></h1>
+                            <h1 class="text-left mr-3 text-2xl max-w-[50%] tracking-tight leading-8 text-white">Organized the Born this Way Pride Month Exhibition at Ahnanda ArtSpace in <b>2023</b></h1>
                         </div>  
                     </div>
                 </div>
