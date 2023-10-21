@@ -6,7 +6,7 @@
                     <img src="../../public/img/artwork_one.png" alt="" class="max-h-96 max-w-full">
                 </div>
 
-                <div class="mx-10">
+                <div class="ml-10">
                     <h1 class="mb-10 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">First Artwork</h1>
                     <h1 class="mb-10 text-3xl font-extrabold tracking-tight leading-none text-white">Tagline for this Artwork</h1>
                     <p class="max-w-lg text-md font-normal text-gray-300 lg:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -14,7 +14,7 @@
             </div>
 
             <div class="flex mb-32 items-center justify-center">
-                <div class="mx-10">
+                <div class="mr-10">
                     <h1 class="mb-10 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Second Artwork</h1>
                     <h1 class="mb-10 text-3xl font-extrabold tracking-tight leading-none text-white">Tagline for this Artwork</h1>
                     <p class="max-w-lg text-md font-normal text-gray-300 lg:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -30,7 +30,7 @@
                     <img src="../../public/img/artwork_three.png" alt="" class="max-h-96 max-w-full">
                 </div>
 
-                <div class="mx-10">
+                <div class="ml-10">
                     <h1 class="mb-10 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Third Artwork</h1>
                     <h1 class="mb-10 text-3xl font-extrabold tracking-tight leading-none text-white">Tagline for this Artwork</h1>
                     <p class="max-w-lg text-md font-normal text-gray-300 lg:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
